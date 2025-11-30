@@ -1,0 +1,5 @@
+{
+  "name": "Copy of TrendPulse AI",
+  "description": "Real-time NLP sentiment analysis on trending topics using Gemini v2.5 with Google Search Grounding.",
+  "requestFramePermissions": []
+}
